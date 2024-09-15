@@ -1,7 +1,5 @@
-# SocialMediaBiasHarmReduction
+# Social Media Bias Harm Reduction - "Transparent Socials"
 An implementation aimed towards filtering text-based social media content to the preferences of the user - mitigating filter bubbles and algorithmic bias within the scope of what users are exposed to.
-
-# Transparent Socials:
 
 # Section 0 - Requirements:
 You must have Python 3.11 installed to run this application. The pandas library is preferred for installation as it is required in the project. If this is not installed already, the application should install this automatically for you on execution.
